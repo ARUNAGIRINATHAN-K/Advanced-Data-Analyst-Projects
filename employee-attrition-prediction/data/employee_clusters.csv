@@ -1,0 +1,151 @@
+Age,EducationLevel,YearsAtCompany,MonthlyIncome,JobSatisfaction,WorkLifeBalance,PerformanceRating,TrainingTimesLastYear,OverTime,DistanceFromHome,Attrition,Gender_Male,Gender_Other,Department_HR,Department_IT,Department_R&D,Department_Sales,JobRole_Engineer,JobRole_Executive,JobRole_Manager,JobRole_Technician,Cluster,PCA1,PCA2
+50,Bachelor,2,92506,2,3,4,3,0,22,0,False,True,False,False,True,False,False,True,False,False,2,-2.7359035212369625,-0.2092201634642335
+36,Bachelor,14,66157,4,4,5,5,0,28,0,True,False,True,False,False,False,False,True,False,False,0,-1.4535924937426452,1.3894905759914016
+29,Bachelor,7,79917,3,4,3,3,0,9,0,False,False,False,False,False,True,False,False,False,False,1,1.1208693258823375,0.06597209582964167
+42,Bachelor,4,117738,2,3,4,5,0,26,0,False,False,False,False,False,False,True,False,False,False,3,-0.39225174884463115,0.16326004162763164
+40,Bachelor,3,108122,3,3,1,2,0,9,0,True,False,False,False,False,True,False,False,True,False,1,2.73776523456512,-0.7607843457715927
+44,Bachelor,7,49519,3,1,4,2,0,15,0,False,True,False,False,False,True,True,False,False,False,1,-0.33794672858124586,-1.0003624159849185
+32,High School,14,112487,3,3,3,3,0,10,0,False,True,True,False,False,False,False,False,False,True,0,-1.003319218508599,1.9850999352549141
+32,High School,5,81819,2,1,4,3,1,24,0,True,False,False,True,False,False,False,True,False,False,3,-0.84381675470704,-0.03126607053344773
+45,PhD,1,105910,2,3,1,5,1,8,0,False,False,False,False,False,True,False,False,True,False,1,2.700848692014995,-0.9274687874384802
+57,Master,3,96324,3,4,3,1,1,24,0,True,False,False,False,True,False,False,False,True,False,2,0.4594916916530732,-1.666617630396051
+45,Bachelor,11,30408,1,3,4,5,1,16,0,True,False,False,True,False,False,False,False,False,True,3,0.19987208470080894,1.779879905303053
+24,PhD,10,84379,2,3,3,1,0,26,1,True,False,False,False,False,False,False,False,False,True,1,2.4856503813506525,1.128643923565804
+43,Bachelor,3,50053,1,2,2,2,0,27,0,False,False,True,False,False,False,False,False,False,False,0,-0.8027992930797079,1.0337887241331436
+23,Bachelor,14,34446,3,2,2,0,1,37,0,False,False,False,False,False,False,False,True,False,False,3,-1.1594459579389804,-1.291524299984334
+45,Bachelor,5,25922,2,3,3,3,1,4,0,True,False,False,True,False,False,False,True,False,False,3,-0.7358250769497254,0.17875569706557587
+51,High School,5,76356,4,2,3,1,0,24,1,True,False,False,True,False,False,True,False,False,False,3,0.1947320312351698,0.3333227985757553
+59,High School,0,35789,3,2,2,5,0,19,1,False,True,False,True,False,False,False,False,False,False,3,-2.0878949210277185,0.7319616844689346
+23,Bachelor,13,91656,4,3,3,2,0,36,0,True,False,False,False,False,False,False,False,False,False,3,0.5403192035237863,-0.4293919001984679
+42,Bachelor,7,69028,4,3,1,1,0,39,0,True,False,False,True,False,False,False,False,False,False,3,0.2508196227760287,-0.19188397881565158
+54,Bachelor,5,89484,4,3,4,5,1,10,0,False,False,False,False,False,False,False,False,False,False,3,-0.8779047834085302,-0.08468200134901516
+33,Master,2,57154,4,1,2,3,1,25,0,False,True,False,True,False,False,False,True,False,False,3,-2.9440219413255306,-2.8985223744237
+43,Master,13,107870,2,3,3,3,0,18,0,True,False,False,False,True,False,False,True,False,False,2,-0.807914171261508,-0.7927389975025064
+46,High School,8,27336,3,3,1,4,0,19,0,False,False,False,True,False,False,False,False,False,False,3,-0.6541468931577135,0.9399270868904671
+48,Master,1,92779,2,3,3,0,1,36,0,False,False,False,False,False,False,True,False,False,False,3,-0.42269195482980687,-1.3577795851148968
+49,PhD,14,44029,1,3,4,4,0,10,0,True,False,False,False,False,True,False,False,True,False,1,3.7079187946137653,0.5184829158401871
+37,PhD,10,84201,3,2,3,2,0,33,1,False,False,False,True,False,False,False,False,True,False,3,1.9115978657128392,-1.296589745521998
+36,High School,7,57265,3,3,2,1,0,5,0,True,False,False,False,False,True,True,False,False,False,1,1.7968953276383473,0.549440539284692
+24,Master,9,68872,2,3,4,2,0,35,0,False,False,False,False,True,False,False,False,False,False,2,-0.8071475586203883,-1.401431772818753
+58,Bachelor,2,71197,3,4,4,5,0,34,0,False,False,True,False,False,False,False,True,False,False,0,-2.4436079662239014,1.9090408176563751
+28,Master,12,80180,4,3,2,3,0,33,0,False,False,False,False,True,False,False,False,True,False,2,-0.15539574744581194,-2.6744620349148462
+42,PhD,11,48710,3,3,4,4,0,21,0,True,False,False,True,False,False,False,False,False,True,3,1.6274109008842408,1.6238329974081631
+30,Bachelor,4,54486,3,3,4,4,1,17,0,False,False,False,False,False,True,False,False,False,True,1,0.5434526126446216,0.6973164161119867
+39,Master,5,96907,4,3,2,4,1,22,1,True,False,False,False,False,True,True,False,False,False,1,0.7704604495438816,-1.6421980442135118
+25,Master,9,96895,4,4,4,2,0,37,0,True,False,False,False,False,False,False,False,False,False,3,0.38012915296242317,-0.9084325226961392
+46,Master,5,89435,3,3,4,3,0,15,0,True,False,False,False,False,True,False,False,True,False,1,2.212972488104556,-1.1177027066994678
+35,Bachelor,3,65631,4,3,3,1,1,35,0,False,False,False,False,False,False,False,False,False,False,3,-0.6517850386253804,-0.8188043668874354
+30,Bachelor,2,45103,4,3,2,5,0,28,1,False,False,True,False,False,False,False,False,True,False,0,-0.6164401745708059,-0.2960032140169938
+47,Bachelor,3,89772,4,3,2,1,0,7,0,True,False,False,True,False,False,True,False,False,False,3,0.646959397020847,-0.43858359009696885
+23,Master,0,39382,1,3,4,2,1,32,1,False,False,False,False,False,False,True,False,False,False,3,-0.6207946570992496,-1.4744390815274877
+41,High School,3,109291,2,4,5,5,0,11,0,True,False,True,False,False,False,False,False,False,True,0,0.10672925198224749,3.7475667524403096
+49,Bachelor,0,28756,2,3,3,4,0,10,0,False,False,False,False,False,True,False,False,False,False,1,0.43536245697991177,0.7915872826517651
+28,Bachelor,11,45609,1,3,3,0,0,9,0,True,False,False,False,False,True,False,False,False,True,1,2.554281869693387,1.497929584966137
+29,Bachelor,14,41478,3,4,3,2,1,14,0,False,False,True,False,False,False,False,False,False,False,0,-0.705042253948207,0.3551504555644952
+56,Master,0,64666,3,1,3,2,0,13,0,True,False,False,False,False,True,False,False,False,True,1,1.2912284113225447,0.42609365070676153
+35,Master,9,100683,4,2,3,3,0,25,1,False,True,True,False,False,False,False,True,False,False,0,-2.8432471765723513,-1.2115426844936739
+38,Bachelor,13,96315,1,2,2,1,0,2,1,True,False,False,False,False,False,False,True,False,False,1,0.5528344709312293,0.11183874333735194
+57,Master,5,102834,4,4,4,2,0,35,0,True,False,False,False,False,False,False,True,False,False,3,-0.8120754154941076,-0.03023001073491534
+25,Bachelor,4,39153,3,1,3,2,0,7,0,True,False,True,False,False,False,False,True,False,False,0,-1.002622406248696,0.07816300790673614
+23,Bachelor,13,101325,3,1,4,4,0,21,0,False,True,False,False,False,False,False,False,True,False,2,-0.19026313131436187,-2.1239919823857343
+27,Master,10,37999,4,1,3,4,0,18,0,False,False,False,False,False,False,False,True,False,False,2,-1.6407752597150127,-1.846394722807443
+25,Bachelor,14,80318,3,1,1,5,0,3,1,True,False,False,False,False,False,True,False,False,False,3,0.5442866114956557,-1.0821450585481995
+50,Bachelor,3,25814,2,1,2,0,1,39,0,False,False,False,False,True,False,True,False,False,False,2,-1.4359657516261766,-1.2998663514742215
+39,Master,12,101077,4,3,3,3,0,11,0,False,False,False,True,False,False,False,False,True,False,3,0.7853282436926455,-2.133190667184074
+47,Bachelor,10,115474,2,3,4,0,0,39,0,False,False,False,False,False,True,False,True,False,False,1,0.3503631301593442,0.3558410260181558
+55,Bachelor,2,27443,1,2,2,5,0,24,0,False,False,False,False,True,False,False,True,False,False,2,-2.3740570287756237,0.441079423316072
+31,Bachelor,0,100993,4,2,4,4,1,19,0,True,False,False,False,False,False,False,True,False,False,3,-1.045464416933752,-0.8499059785892348
+57,Bachelor,5,100916,2,1,3,1,0,4,0,True,False,True,False,False,False,False,False,False,True,0,0.5239833658777029,2.092982234485826
+35,Bachelor,1,98319,3,2,4,4,0,26,1,False,False,False,False,False,False,False,False,False,False,3,-0.5223638766649977,-0.2532294040078445
+52,Bachelor,7,42368,2,3,3,3,0,38,1,False,True,False,True,False,False,False,False,False,True,3,-1.3586719011976065,1.386956782898255
+36,Master,9,40328,4,3,4,4,1,32,0,False,False,False,False,False,False,False,False,False,False,3,-1.1906771754125465,-1.3541698210413262
+29,Master,4,81942,2,1,4,3,0,39,0,True,False,True,False,False,False,False,True,False,False,0,-1.4451654184821983,-0.3760358896609685
+35,Master,6,116751,4,3,3,3,0,36,1,True,False,False,True,False,False,False,True,False,False,3,-0.7609113273801992,-1.1647790086828533
+44,Master,9,52306,3,2,2,3,1,37,0,False,False,False,False,False,False,False,False,False,True,3,-0.7702889115414201,-0.3093393458993795
+42,Bachelor,11,110451,1,4,4,5,0,33,0,False,False,False,True,False,False,False,False,False,True,3,0.08714460121037886,2.020481638396976
+37,Bachelor,1,64915,3,3,5,3,0,36,0,False,False,False,False,False,True,False,False,False,False,1,0.32372846760440455,0.28272041610915694
+39,Bachelor,12,62219,4,3,1,3,0,3,0,False,False,False,False,False,True,True,False,False,False,1,0.9428753427296072,-0.6188270952795974
+45,Bachelor,7,105879,2,2,4,1,0,9,0,False,False,False,False,False,False,False,False,False,False,1,0.3830002909730993,-0.01839782039242759
+47,High School,1,89644,1,4,4,0,0,8,0,True,False,False,True,False,False,False,False,False,True,3,1.4073526638230172,2.8823074668120023
+46,Bachelor,3,85279,2,1,4,2,0,33,1,True,False,True,False,False,False,False,False,False,True,0,-0.10534720336089311,2.061996844694035
+50,Bachelor,0,78028,3,2,5,0,0,6,0,False,False,False,False,False,False,False,False,True,False,1,0.9791125976918793,-0.8038272456466482
+36,Master,14,25126,3,2,4,3,0,39,0,False,False,False,False,False,True,False,False,False,True,1,0.4467934183487289,0.2268711774300141
+22,PhD,4,77329,3,2,3,1,0,4,0,True,False,False,False,False,True,False,False,True,False,1,4.101531508035303,-1.390639163185375
+46,Bachelor,8,52632,2,4,3,4,0,13,0,True,False,False,False,False,False,True,False,False,False,3,0.3910108829305837,0.8510920795086483
+28,Bachelor,0,90310,2,3,3,1,0,2,0,False,False,False,True,False,False,False,False,False,False,3,0.4740002635621063,-0.40565112675225107
+30,High School,8,80176,3,2,4,3,0,5,0,True,False,False,False,False,True,False,False,False,False,1,1.6184128456868203,0.6144382142921178
+45,Master,10,111066,2,3,4,1,0,27,0,True,False,False,True,False,False,False,False,True,False,3,1.6721702984988176,-1.2777563451128022
+22,Master,14,69327,1,4,3,1,0,32,0,False,False,False,False,False,True,False,False,False,False,1,1.3759599082983285,-0.6193450057783934
+29,Bachelor,7,93904,4,4,4,3,0,21,0,False,False,False,False,False,True,False,False,False,True,1,1.1064926694160604,1.0475941443900434
+45,Bachelor,5,28797,3,3,4,5,1,8,1,False,False,False,False,True,False,False,True,False,False,2,-2.4828263549578304,-0.3767100280138288
+32,High School,6,72882,3,4,3,1,0,38,0,True,False,False,False,False,True,False,False,True,False,1,2.3855887736156873,0.38489716950828096
+38,High School,2,38718,4,4,3,2,1,8,0,False,False,True,False,False,False,False,False,False,False,0,-1.1453395015296661,1.1716089268726775
+29,Bachelor,13,59560,3,3,3,2,0,3,0,True,False,False,False,False,False,False,False,True,False,1,1.8530433759042462,-0.8255968349468108
+56,Bachelor,14,101589,4,1,2,1,0,3,1,True,False,False,False,False,False,False,False,True,False,1,1.7461126189685148,-1.1623056086491
+56,PhD,0,47116,2,3,3,5,0,22,0,False,False,False,True,False,False,False,True,False,False,3,-0.5151322226066515,0.8429660762510799
+54,Bachelor,4,61244,1,4,2,4,0,6,0,False,False,False,False,False,True,False,False,False,True,1,1.1854297937192617,2.4038386485944754
+26,Bachelor,13,26645,2,2,2,3,0,2,0,False,False,True,False,False,False,False,False,True,False,0,0.4366646605053823,-0.41455972730247276
+49,Master,11,72523,2,4,3,2,0,23,0,False,False,False,True,False,False,False,False,False,False,3,-0.06542429079636021,-0.24298128951390827
+28,Master,11,44256,3,2,3,4,1,2,1,False,False,False,False,True,False,True,False,False,False,2,-1.2063412452961662,-2.5843698528995813
+30,PhD,1,78173,1,1,1,1,0,38,0,True,False,False,True,False,False,False,False,True,False,3,2.6919251443199954,-1.2598083208013853
+29,High School,13,62430,1,2,4,4,1,17,0,True,False,False,True,False,False,False,False,True,False,3,1.2135591953907767,-0.2778595390265816
+33,Bachelor,4,64282,2,1,3,0,1,35,0,True,False,False,False,False,True,False,True,False,False,1,0.38521400885556256,-0.7902567460377068
+55,High School,7,88374,2,4,4,2,0,34,0,True,False,False,False,True,False,False,False,False,True,2,0.026819939287598352,2.8103448556547463
+54,Bachelor,10,93244,3,4,5,1,0,23,1,False,True,False,True,False,False,True,False,False,False,3,-0.9294120327504944,-0.11001481203928785
+44,High School,8,36694,2,4,2,3,0,30,1,True,False,True,False,False,False,False,False,False,False,0,-0.36203905205228354,2.597671058894534
+45,Bachelor,1,81264,3,3,3,5,0,8,1,False,False,True,False,False,False,True,False,False,False,0,-1.1092640198417685,0.748936344951759
+58,Bachelor,11,100060,2,2,1,1,0,22,0,False,False,False,False,False,False,False,False,False,False,3,0.20053832564842702,0.16368168603162014
+56,Bachelor,2,82545,3,3,3,3,0,36,0,False,False,False,False,True,False,False,False,False,True,2,-1.0692020053276903,1.2726230236097285
+43,Bachelor,2,64224,4,3,3,5,0,5,0,False,False,False,False,True,False,False,False,False,False,2,-1.2622551976339282,-0.3639724822308369
+48,Bachelor,0,38224,2,3,3,5,0,13,0,False,False,False,False,False,False,False,True,False,False,3,-1.5765988622568436,0.7669661233617676
+56,Bachelor,7,65738,3,2,3,1,1,29,0,False,False,False,True,False,False,False,True,False,False,3,-1.5065677849745767,-0.4822842888753016
+22,Bachelor,5,50150,2,3,3,4,0,31,1,True,False,False,False,True,False,False,True,False,False,2,-1.3181867918281311,-0.19564553764152157
+56,High School,11,88731,2,3,2,4,0,16,1,False,False,True,False,False,False,False,True,False,False,0,-1.662646298333194,2.230430030794028
+58,Bachelor,12,74688,4,4,3,5,0,30,0,True,False,True,False,False,False,True,False,False,False,0,-0.7754931548086424,1.5287497331149607
+35,Bachelor,7,98509,1,4,3,4,0,16,0,True,False,False,False,False,True,False,False,False,True,1,2.068275128081216,2.1226173249560074
+24,Bachelor,10,33577,1,3,3,0,0,12,0,False,False,False,False,True,False,False,False,False,False,2,-0.05920062455881333,-0.441391463659671
+22,Bachelor,8,33070,3,3,3,5,0,17,0,True,False,False,True,False,False,False,False,False,False,3,0.0995901187179379,-0.06295938538123262
+26,High School,4,33666,1,3,5,5,0,16,0,False,True,False,False,False,False,False,True,False,False,2,-2.273527272335581,0.9362574390470344
+47,High School,13,82761,4,1,2,3,0,12,0,False,True,False,False,False,False,False,True,False,False,2,-2.138660541724378,-0.2913920633839737
+35,Master,11,61368,2,4,3,4,0,8,0,False,True,False,True,False,False,False,False,True,False,3,-0.11696411470166633,-1.7153732110632223
+48,Bachelor,13,31783,4,4,3,5,0,20,0,True,False,False,False,False,True,False,False,False,True,1,1.1330511074557246,2.0837840735285855
+30,Bachelor,2,66914,3,3,3,0,1,3,1,True,False,False,False,False,False,True,False,False,False,3,0.7308502997704871,-0.9458961675036102
+36,Master,4,95507,3,2,5,3,1,16,1,False,True,False,False,True,False,False,False,False,False,2,-2.1882294588269033,-2.4633849411551028
+36,High School,4,104026,4,2,4,1,1,30,0,True,False,False,False,False,True,False,False,True,False,1,2.022442981251018,-0.8497674489129118
+47,Master,4,92526,2,3,3,5,0,23,0,False,True,False,False,True,False,False,False,True,False,2,-1.2747970269102835,-1.9325512289824875
+34,Bachelor,2,95835,4,1,4,0,0,28,0,False,True,True,False,False,False,False,False,False,False,0,-1.7095160517779513,-0.7160567373838899
+53,High School,10,70765,1,4,5,2,1,5,1,False,False,False,False,False,True,True,False,False,False,1,1.0163597994392466,1.2999925932520493
+53,Bachelor,13,44956,2,1,4,0,0,20,0,True,False,False,False,False,False,False,False,True,False,1,1.5735576312349517,-0.47464376256244006
+25,Master,9,112895,2,2,4,0,1,1,0,True,False,False,False,False,True,False,False,True,False,1,3.0445107808842127,-2.5823984466078667
+51,Bachelor,13,71240,3,4,4,3,0,30,0,False,False,False,False,False,True,False,False,False,True,1,0.9294799018587137,1.989465073575272
+58,PhD,3,62148,1,3,2,1,0,21,0,True,False,False,False,False,True,True,False,False,False,1,2.8613309092301202,0.8828701985150215
+44,Bachelor,8,119270,4,2,2,2,1,20,0,True,False,False,False,False,True,False,False,True,False,1,2.211354002667458,-1.5845992359452392
+36,Master,12,29757,4,2,3,4,0,6,0,False,False,False,False,True,False,True,False,False,False,2,-1.259288953530639,-2.04652818595234
+50,Bachelor,9,44097,4,1,1,4,1,22,0,False,True,True,False,False,False,False,False,False,False,0,-2.648625500495481,-0.5870145045692656
+57,Master,8,35395,1,3,3,0,1,18,0,False,False,False,True,False,False,False,True,False,False,3,-1.1171776082253093,-0.6106450825145042
+34,Bachelor,1,41241,3,1,3,3,0,8,0,False,False,False,False,False,True,False,False,True,False,1,1.44927421989953,-1.3655463423163248
+53,High School,7,52696,2,3,3,3,0,39,0,True,False,False,False,False,False,False,False,False,True,3,0.2366924570032807,3.000732187999872
+28,High School,7,95480,2,4,4,4,0,32,0,False,False,False,False,False,True,False,False,False,False,1,0.7903951191875573,1.220623326867969
+43,High School,6,71163,2,2,4,2,0,33,0,False,True,False,False,False,False,True,False,False,False,3,-1.3354235120856734,0.2406691574958423
+49,High School,7,44816,2,4,2,1,0,16,1,True,False,False,False,True,False,False,False,False,False,2,0.0628868684440767,1.3576016911463364
+23,High School,13,74840,3,4,3,2,0,12,0,False,False,False,False,False,False,False,False,True,False,1,1.2449278238466808,-0.19103186309893885
+27,Bachelor,2,77853,3,1,4,5,1,38,0,False,False,False,True,False,False,True,False,False,False,3,-1.2568562498611613,-1.571692001743043
+49,Bachelor,12,49917,2,4,2,5,0,34,1,False,False,True,False,False,False,False,True,False,False,0,-2.078970852503734,1.77939457606499
+49,Master,5,46566,1,3,4,1,1,14,1,False,False,False,False,False,False,False,False,False,False,3,-0.2503170408836076,-0.5694699880622831
+41,Master,0,100452,1,4,3,4,1,36,0,False,False,False,False,False,False,False,False,True,False,3,0.22239483317684525,-1.2679352365481256
+51,Bachelor,6,87823,1,3,3,1,0,33,0,True,False,True,False,False,False,False,False,False,True,0,0.37564327697822586,2.8745162002385647
+32,Master,14,45806,4,3,5,3,1,23,0,True,False,False,True,False,False,True,False,False,False,3,-0.1894682043120127,-1.7088706614443765
+49,Master,14,100520,1,3,3,5,0,2,1,False,False,False,False,False,True,False,False,False,False,1,1.100299170989899,-0.07328142623849852
+46,Bachelor,0,26759,1,4,3,0,0,21,1,False,False,False,False,False,False,False,False,False,False,3,0.08168539848408535,0.9733070541379544
+54,Bachelor,8,66949,2,3,4,0,1,2,0,False,False,True,False,False,False,False,True,False,False,0,-1.3002848160499845,0.8235121678341508
+22,Bachelor,0,117374,4,3,1,4,0,27,0,False,True,False,False,True,False,False,True,False,False,2,-2.829964848626966,-1.6905242662483837
+48,Bachelor,0,27482,4,4,3,3,1,9,0,False,False,True,False,False,False,False,False,False,True,0,-1.1995829810578693,1.9078851464566693
+34,Bachelor,14,49442,3,2,5,2,0,1,0,False,False,False,False,True,False,False,False,False,True,2,-0.2389673059069167,0.4311881861980025
+24,Bachelor,6,58719,3,2,2,3,0,11,0,False,False,False,True,False,False,False,False,True,False,3,0.7698344365961678,-1.6703294341069077
+27,Master,1,83066,3,2,4,0,0,3,0,False,False,False,False,False,True,False,False,True,False,1,2.1661126096522567,-2.4302713452016955
+29,Master,13,118501,1,2,3,0,0,23,0,False,False,True,False,False,False,False,False,False,True,0,0.34683373457783906,0.5881043925339139
+48,High School,4,27079,4,2,3,5,1,26,0,False,False,False,False,False,False,False,False,False,True,3,-1.250996856164943,1.5304880320583343
+30,Bachelor,7,27717,3,4,3,3,0,4,0,False,False,False,True,False,False,True,False,False,False,3,-0.13284143026404188,-0.26770299861199953
+58,High School,7,84676,3,2,3,3,0,18,0,True,False,True,False,False,False,False,True,False,False,0,-1.2687312682332197,2.0587089209667444
+54,Bachelor,2,52952,3,3,4,0,0,6,0,True,False,False,False,False,False,False,False,True,False,1,1.586432452455493,-0.13200062649089073
+45,Bachelor,6,111444,3,2,4,2,0,35,1,True,False,True,False,False,False,False,True,False,False,0,-1.1285531359843888,0.8844389802502477
