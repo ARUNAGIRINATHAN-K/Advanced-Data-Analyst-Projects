@@ -1,0 +1,151 @@
+Age,EducationLevel,YearsAtCompany,MonthlyIncome,JobSatisfaction,WorkLifeBalance,PerformanceRating,TrainingTimesLastYear,OverTime,DistanceFromHome,Attrition,Gender_Male,Gender_Other,Department_HR,Department_IT,Department_R&D,Department_Sales,JobRole_Engineer,JobRole_Executive,JobRole_Manager,JobRole_Technician,Attrition_Prediction,Retention_Suggestion
+50,Bachelor,2,92506,2,3,4,3,0,22,0,False,True,False,False,True,False,False,True,False,False,0,Retain current engagement strategy
+36,Bachelor,14,66157,4,4,5,5,0,28,0,True,False,True,False,False,False,False,True,False,False,0,Retain current engagement strategy
+29,Bachelor,7,79917,3,4,3,3,0,9,0,False,False,False,False,False,True,False,False,False,False,0,Retain current engagement strategy
+42,Bachelor,4,117738,2,3,4,5,0,26,0,False,False,False,False,False,False,True,False,False,False,0,Retain current engagement strategy
+40,Bachelor,3,108122,3,3,1,2,0,9,0,True,False,False,False,False,True,False,False,True,False,0,Retain current engagement strategy
+44,Bachelor,7,49519,3,1,4,2,0,15,0,False,True,False,False,False,True,True,False,False,False,0,Retain current engagement strategy
+32,High School,14,112487,3,3,3,3,0,10,0,False,True,True,False,False,False,False,False,False,True,0,Retain current engagement strategy
+32,High School,5,81819,2,1,4,3,1,24,0,True,False,False,True,False,False,False,True,False,False,0,Retain current engagement strategy
+45,PhD,1,105910,2,3,1,5,1,8,0,False,False,False,False,False,True,False,False,True,False,0,Retain current engagement strategy
+57,Master,3,96324,3,4,3,1,1,24,0,True,False,False,False,True,False,False,False,True,False,0,Retain current engagement strategy
+45,Bachelor,11,30408,1,3,4,5,1,16,0,True,False,False,True,False,False,False,False,False,True,0,Retain current engagement strategy
+24,PhD,10,84379,2,3,3,1,0,26,1,True,False,False,False,False,False,False,False,False,True,1,Discuss career goals; explore role change. | Offer hybrid or remote work options. | Assign training or mentorship.
+43,Bachelor,3,50053,1,2,2,2,0,27,0,False,False,True,False,False,False,False,False,False,False,0,Retain current engagement strategy
+23,Bachelor,14,34446,3,2,2,0,1,37,0,False,False,False,False,False,False,False,True,False,False,0,Retain current engagement strategy
+45,Bachelor,5,25922,2,3,3,3,1,4,0,True,False,False,True,False,False,False,True,False,False,0,Retain current engagement strategy
+51,High School,5,76356,4,2,3,1,0,24,1,True,False,False,True,False,False,True,False,False,False,0,Retain current engagement strategy
+59,High School,0,35789,3,2,2,5,0,19,1,False,True,False,True,False,False,False,False,False,False,0,Retain current engagement strategy
+23,Bachelor,13,91656,4,3,3,2,0,36,0,True,False,False,False,False,False,False,False,False,False,0,Retain current engagement strategy
+42,Bachelor,7,69028,4,3,1,1,0,39,0,True,False,False,True,False,False,False,False,False,False,0,Retain current engagement strategy
+54,Bachelor,5,89484,4,3,4,5,1,10,0,False,False,False,False,False,False,False,False,False,False,1,Consider promotion or recognition incentive.
+33,Master,2,57154,4,1,2,3,1,25,0,False,True,False,True,False,False,False,True,False,False,0,Retain current engagement strategy
+43,Master,13,107870,2,3,3,3,0,18,0,True,False,False,False,True,False,False,True,False,False,0,Retain current engagement strategy
+46,High School,8,27336,3,3,1,4,0,19,0,False,False,False,True,False,False,False,False,False,False,1,Review compensation package.
+48,Master,1,92779,2,3,3,0,1,36,0,False,False,False,False,False,False,True,False,False,False,1,Discuss career goals; explore role change. | Offer hybrid or remote work options. | Assign training or mentorship.
+49,PhD,14,44029,1,3,4,4,0,10,0,True,False,False,False,False,True,False,False,True,False,0,Retain current engagement strategy
+37,PhD,10,84201,3,2,3,2,0,33,1,False,False,False,True,False,False,False,False,True,False,1,Offer hybrid or remote work options.
+36,High School,7,57265,3,3,2,1,0,5,0,True,False,False,False,False,True,True,False,False,False,0,Retain current engagement strategy
+24,Master,9,68872,2,3,4,2,0,35,0,False,False,False,False,True,False,False,False,False,False,0,Retain current engagement strategy
+58,Bachelor,2,71197,3,4,4,5,0,34,0,False,False,True,False,False,False,False,True,False,False,0,Retain current engagement strategy
+28,Master,12,80180,4,3,2,3,0,33,0,False,False,False,False,True,False,False,False,True,False,0,Retain current engagement strategy
+42,PhD,11,48710,3,3,4,4,0,21,0,True,False,False,True,False,False,False,False,False,True,0,Retain current engagement strategy
+30,Bachelor,4,54486,3,3,4,4,1,17,0,False,False,False,False,False,True,False,False,False,True,0,Retain current engagement strategy
+39,Master,5,96907,4,3,2,4,1,22,1,True,False,False,False,False,True,True,False,False,False,0,Retain current engagement strategy
+25,Master,9,96895,4,4,4,2,0,37,0,True,False,False,False,False,False,False,False,False,False,1,Consider promotion or recognition incentive. | Offer hybrid or remote work options.
+46,Master,5,89435,3,3,4,3,0,15,0,True,False,False,False,False,True,False,False,True,False,0,Retain current engagement strategy
+35,Bachelor,3,65631,4,3,3,1,1,35,0,False,False,False,False,False,False,False,False,False,False,0,Retain current engagement strategy
+30,Bachelor,2,45103,4,3,2,5,0,28,1,False,False,True,False,False,False,False,False,True,False,0,Retain current engagement strategy
+47,Bachelor,3,89772,4,3,2,1,0,7,0,True,False,False,True,False,False,True,False,False,False,0,Retain current engagement strategy
+23,Master,0,39382,1,3,4,2,1,32,1,False,False,False,False,False,False,True,False,False,False,1,Discuss career goals; explore role change. | Review compensation package. | Consider promotion or recognition incentive. | Offer hybrid or remote work options.
+41,High School,3,109291,2,4,5,5,0,11,0,True,False,True,False,False,False,False,False,False,True,1,Discuss career goals; explore role change. | Consider promotion or recognition incentive.
+49,Bachelor,0,28756,2,3,3,4,0,10,0,False,False,False,False,False,True,False,False,False,False,0,Retain current engagement strategy
+28,Bachelor,11,45609,1,3,3,0,0,9,0,True,False,False,False,False,True,False,False,False,True,0,Retain current engagement strategy
+29,Bachelor,14,41478,3,4,3,2,1,14,0,False,False,True,False,False,False,False,False,False,False,0,Retain current engagement strategy
+56,Master,0,64666,3,1,3,2,0,13,0,True,False,False,False,False,True,False,False,False,True,0,Retain current engagement strategy
+35,Master,9,100683,4,2,3,3,0,25,1,False,True,True,False,False,False,False,True,False,False,0,Retain current engagement strategy
+38,Bachelor,13,96315,1,2,2,1,0,2,1,True,False,False,False,False,False,False,True,False,False,0,Retain current engagement strategy
+57,Master,5,102834,4,4,4,2,0,35,0,True,False,False,False,False,False,False,True,False,False,0,Retain current engagement strategy
+25,Bachelor,4,39153,3,1,3,2,0,7,0,True,False,True,False,False,False,False,True,False,False,0,Retain current engagement strategy
+23,Bachelor,13,101325,3,1,4,4,0,21,0,False,True,False,False,False,False,False,False,True,False,0,Retain current engagement strategy
+27,Master,10,37999,4,1,3,4,0,18,0,False,False,False,False,False,False,False,True,False,False,0,Retain current engagement strategy
+25,Bachelor,14,80318,3,1,1,5,0,3,1,True,False,False,False,False,False,True,False,False,False,0,Retain current engagement strategy
+50,Bachelor,3,25814,2,1,2,0,1,39,0,False,False,False,False,True,False,True,False,False,False,0,Retain current engagement strategy
+39,Master,12,101077,4,3,3,3,0,11,0,False,False,False,True,False,False,False,False,True,False,0,Retain current engagement strategy
+47,Bachelor,10,115474,2,3,4,0,0,39,0,False,False,False,False,False,True,False,True,False,False,1,Discuss career goals; explore role change. | Consider promotion or recognition incentive. | Offer hybrid or remote work options. | Assign training or mentorship.
+55,Bachelor,2,27443,1,2,2,5,0,24,0,False,False,False,False,True,False,False,True,False,False,0,Retain current engagement strategy
+31,Bachelor,0,100993,4,2,4,4,1,19,0,True,False,False,False,False,False,False,True,False,False,0,Retain current engagement strategy
+57,Bachelor,5,100916,2,1,3,1,0,4,0,True,False,True,False,False,False,False,False,False,True,1,Discuss career goals; explore role change. | Assign training or mentorship.
+35,Bachelor,1,98319,3,2,4,4,0,26,1,False,False,False,False,False,False,False,False,False,False,0,Retain current engagement strategy
+52,Bachelor,7,42368,2,3,3,3,0,38,1,False,True,False,True,False,False,False,False,False,True,0,Retain current engagement strategy
+36,Master,9,40328,4,3,4,4,1,32,0,False,False,False,False,False,False,False,False,False,False,0,Retain current engagement strategy
+29,Master,4,81942,2,1,4,3,0,39,0,True,False,True,False,False,False,False,True,False,False,0,Retain current engagement strategy
+35,Master,6,116751,4,3,3,3,0,36,1,True,False,False,True,False,False,False,True,False,False,0,Retain current engagement strategy
+44,Master,9,52306,3,2,2,3,1,37,0,False,False,False,False,False,False,False,False,False,True,1,Offer flexible hours or workload adjustment. | Offer hybrid or remote work options.
+42,Bachelor,11,110451,1,4,4,5,0,33,0,False,False,False,True,False,False,False,False,False,True,0,Retain current engagement strategy
+37,Bachelor,1,64915,3,3,5,3,0,36,0,False,False,False,False,False,True,False,False,False,False,0,Retain current engagement strategy
+39,Bachelor,12,62219,4,3,1,3,0,3,0,False,False,False,False,False,True,True,False,False,False,0,Retain current engagement strategy
+45,Bachelor,7,105879,2,2,4,1,0,9,0,False,False,False,False,False,False,False,False,False,False,0,Retain current engagement strategy
+47,High School,1,89644,1,4,4,0,0,8,0,True,False,False,True,False,False,False,False,False,True,0,Retain current engagement strategy
+46,Bachelor,3,85279,2,1,4,2,0,33,1,True,False,True,False,False,False,False,False,False,True,0,Retain current engagement strategy
+50,Bachelor,0,78028,3,2,5,0,0,6,0,False,False,False,False,False,False,False,False,True,False,1,Consider promotion or recognition incentive. | Assign training or mentorship.
+36,Master,14,25126,3,2,4,3,0,39,0,False,False,False,False,False,True,False,False,False,True,0,Retain current engagement strategy
+22,PhD,4,77329,3,2,3,1,0,4,0,True,False,False,False,False,True,False,False,True,False,0,Retain current engagement strategy
+46,Bachelor,8,52632,2,4,3,4,0,13,0,True,False,False,False,False,False,True,False,False,False,0,Retain current engagement strategy
+28,Bachelor,0,90310,2,3,3,1,0,2,0,False,False,False,True,False,False,False,False,False,False,0,Retain current engagement strategy
+30,High School,8,80176,3,2,4,3,0,5,0,True,False,False,False,False,True,False,False,False,False,0,Retain current engagement strategy
+45,Master,10,111066,2,3,4,1,0,27,0,True,False,False,True,False,False,False,False,True,False,0,Retain current engagement strategy
+22,Master,14,69327,1,4,3,1,0,32,0,False,False,False,False,False,True,False,False,False,False,1,Discuss career goals; explore role change. | Offer hybrid or remote work options. | Assign training or mentorship.
+29,Bachelor,7,93904,4,4,4,3,0,21,0,False,False,False,False,False,True,False,False,False,True,0,Retain current engagement strategy
+45,Bachelor,5,28797,3,3,4,5,1,8,1,False,False,False,False,True,False,False,True,False,False,0,Retain current engagement strategy
+32,High School,6,72882,3,4,3,1,0,38,0,True,False,False,False,False,True,False,False,True,False,0,Retain current engagement strategy
+38,High School,2,38718,4,4,3,2,1,8,0,False,False,True,False,False,False,False,False,False,False,0,Retain current engagement strategy
+29,Bachelor,13,59560,3,3,3,2,0,3,0,True,False,False,False,False,False,False,False,True,False,0,Retain current engagement strategy
+56,Bachelor,14,101589,4,1,2,1,0,3,1,True,False,False,False,False,False,False,False,True,False,0,Retain current engagement strategy
+56,PhD,0,47116,2,3,3,5,0,22,0,False,False,False,True,False,False,False,True,False,False,0,Retain current engagement strategy
+54,Bachelor,4,61244,1,4,2,4,0,6,0,False,False,False,False,False,True,False,False,False,True,0,Retain current engagement strategy
+26,Bachelor,13,26645,2,2,2,3,0,2,0,False,False,True,False,False,False,False,False,True,False,0,Retain current engagement strategy
+49,Master,11,72523,2,4,3,2,0,23,0,False,False,False,True,False,False,False,False,False,False,0,Retain current engagement strategy
+28,Master,11,44256,3,2,3,4,1,2,1,False,False,False,False,True,False,True,False,False,False,0,Retain current engagement strategy
+30,PhD,1,78173,1,1,1,1,0,38,0,True,False,False,True,False,False,False,False,True,False,0,Retain current engagement strategy
+29,High School,13,62430,1,2,4,4,1,17,0,True,False,False,True,False,False,False,False,True,False,0,Retain current engagement strategy
+33,Bachelor,4,64282,2,1,3,0,1,35,0,True,False,False,False,False,True,False,True,False,False,0,Retain current engagement strategy
+55,High School,7,88374,2,4,4,2,0,34,0,True,False,False,False,True,False,False,False,False,True,0,Retain current engagement strategy
+54,Bachelor,10,93244,3,4,5,1,0,23,1,False,True,False,True,False,False,True,False,False,False,0,Retain current engagement strategy
+44,High School,8,36694,2,4,2,3,0,30,1,True,False,True,False,False,False,False,False,False,False,1,Discuss career goals; explore role change. | Review compensation package. | Offer hybrid or remote work options.
+45,Bachelor,1,81264,3,3,3,5,0,8,1,False,False,True,False,False,False,True,False,False,False,0,Retain current engagement strategy
+58,Bachelor,11,100060,2,2,1,1,0,22,0,False,False,False,False,False,False,False,False,False,False,0,Retain current engagement strategy
+56,Bachelor,2,82545,3,3,3,3,0,36,0,False,False,False,False,True,False,False,False,False,True,0,Retain current engagement strategy
+43,Bachelor,2,64224,4,3,3,5,0,5,0,False,False,False,False,True,False,False,False,False,False,0,Retain current engagement strategy
+48,Bachelor,0,38224,2,3,3,5,0,13,0,False,False,False,False,False,False,False,True,False,False,0,Retain current engagement strategy
+56,Bachelor,7,65738,3,2,3,1,1,29,0,False,False,False,True,False,False,False,True,False,False,0,Retain current engagement strategy
+22,Bachelor,5,50150,2,3,3,4,0,31,1,True,False,False,False,True,False,False,True,False,False,0,Retain current engagement strategy
+56,High School,11,88731,2,3,2,4,0,16,1,False,False,True,False,False,False,False,True,False,False,0,Retain current engagement strategy
+58,Bachelor,12,74688,4,4,3,5,0,30,0,True,False,True,False,False,False,True,False,False,False,0,Retain current engagement strategy
+35,Bachelor,7,98509,1,4,3,4,0,16,0,True,False,False,False,False,True,False,False,False,True,0,Retain current engagement strategy
+24,Bachelor,10,33577,1,3,3,0,0,12,0,False,False,False,False,True,False,False,False,False,False,0,Retain current engagement strategy
+22,Bachelor,8,33070,3,3,3,5,0,17,0,True,False,False,True,False,False,False,False,False,False,1,Review compensation package.
+26,High School,4,33666,1,3,5,5,0,16,0,False,True,False,False,False,False,False,True,False,False,1,Discuss career goals; explore role change. | Review compensation package. | Consider promotion or recognition incentive.
+47,High School,13,82761,4,1,2,3,0,12,0,False,True,False,False,False,False,False,True,False,False,1,Schedule 1:1 discussion
+35,Master,11,61368,2,4,3,4,0,8,0,False,True,False,True,False,False,False,False,True,False,0,Retain current engagement strategy
+48,Bachelor,13,31783,4,4,3,5,0,20,0,True,False,False,False,False,True,False,False,False,True,1,Review compensation package.
+30,Bachelor,2,66914,3,3,3,0,1,3,1,True,False,False,False,False,False,True,False,False,False,0,Retain current engagement strategy
+36,Master,4,95507,3,2,5,3,1,16,1,False,True,False,False,True,False,False,False,False,False,0,Retain current engagement strategy
+36,High School,4,104026,4,2,4,1,1,30,0,True,False,False,False,False,True,False,False,True,False,0,Retain current engagement strategy
+47,Master,4,92526,2,3,3,5,0,23,0,False,True,False,False,True,False,False,False,True,False,0,Retain current engagement strategy
+34,Bachelor,2,95835,4,1,4,0,0,28,0,False,True,True,False,False,False,False,False,False,False,0,Retain current engagement strategy
+53,High School,10,70765,1,4,5,2,1,5,1,False,False,False,False,False,True,True,False,False,False,0,Retain current engagement strategy
+53,Bachelor,13,44956,2,1,4,0,0,20,0,True,False,False,False,False,False,False,False,True,False,1,Discuss career goals; explore role change. | Review compensation package. | Consider promotion or recognition incentive. | Assign training or mentorship.
+25,Master,9,112895,2,2,4,0,1,1,0,True,False,False,False,False,True,False,False,True,False,0,Retain current engagement strategy
+51,Bachelor,13,71240,3,4,4,3,0,30,0,False,False,False,False,False,True,False,False,False,True,0,Retain current engagement strategy
+58,PhD,3,62148,1,3,2,1,0,21,0,True,False,False,False,False,True,True,False,False,False,0,Retain current engagement strategy
+44,Bachelor,8,119270,4,2,2,2,1,20,0,True,False,False,False,False,True,False,False,True,False,1,Offer flexible hours or workload adjustment.
+36,Master,12,29757,4,2,3,4,0,6,0,False,False,False,False,True,False,True,False,False,False,0,Retain current engagement strategy
+50,Bachelor,9,44097,4,1,1,4,1,22,0,False,True,True,False,False,False,False,False,False,False,0,Retain current engagement strategy
+57,Master,8,35395,1,3,3,0,1,18,0,False,False,False,True,False,False,False,True,False,False,0,Retain current engagement strategy
+34,Bachelor,1,41241,3,1,3,3,0,8,0,False,False,False,False,False,True,False,False,True,False,0,Retain current engagement strategy
+53,High School,7,52696,2,3,3,3,0,39,0,True,False,False,False,False,False,False,False,False,True,0,Retain current engagement strategy
+28,High School,7,95480,2,4,4,4,0,32,0,False,False,False,False,False,True,False,False,False,False,1,Discuss career goals; explore role change. | Consider promotion or recognition incentive. | Offer hybrid or remote work options.
+43,High School,6,71163,2,2,4,2,0,33,0,False,True,False,False,False,False,True,False,False,False,1,Discuss career goals; explore role change. | Consider promotion or recognition incentive. | Offer hybrid or remote work options.
+49,High School,7,44816,2,4,2,1,0,16,1,True,False,False,False,True,False,False,False,False,False,0,Retain current engagement strategy
+23,High School,13,74840,3,4,3,2,0,12,0,False,False,False,False,False,False,False,False,True,False,0,Retain current engagement strategy
+27,Bachelor,2,77853,3,1,4,5,1,38,0,False,False,False,True,False,False,True,False,False,False,0,Retain current engagement strategy
+49,Bachelor,12,49917,2,4,2,5,0,34,1,False,False,True,False,False,False,False,True,False,False,0,Retain current engagement strategy
+49,Master,5,46566,1,3,4,1,1,14,1,False,False,False,False,False,False,False,False,False,False,0,Retain current engagement strategy
+41,Master,0,100452,1,4,3,4,1,36,0,False,False,False,False,False,False,False,False,True,False,0,Retain current engagement strategy
+51,Bachelor,6,87823,1,3,3,1,0,33,0,True,False,True,False,False,False,False,False,False,True,0,Retain current engagement strategy
+32,Master,14,45806,4,3,5,3,1,23,0,True,False,False,True,False,False,True,False,False,False,0,Retain current engagement strategy
+49,Master,14,100520,1,3,3,5,0,2,1,False,False,False,False,False,True,False,False,False,False,0,Retain current engagement strategy
+46,Bachelor,0,26759,1,4,3,0,0,21,1,False,False,False,False,False,False,False,False,False,False,0,Retain current engagement strategy
+54,Bachelor,8,66949,2,3,4,0,1,2,0,False,False,True,False,False,False,False,True,False,False,0,Retain current engagement strategy
+22,Bachelor,0,117374,4,3,1,4,0,27,0,False,True,False,False,True,False,False,True,False,False,0,Retain current engagement strategy
+48,Bachelor,0,27482,4,4,3,3,1,9,0,False,False,True,False,False,False,False,False,False,True,0,Retain current engagement strategy
+34,Bachelor,14,49442,3,2,5,2,0,1,0,False,False,False,False,True,False,False,False,False,True,0,Retain current engagement strategy
+24,Bachelor,6,58719,3,2,2,3,0,11,0,False,False,False,True,False,False,False,False,True,False,0,Retain current engagement strategy
+27,Master,1,83066,3,2,4,0,0,3,0,False,False,False,False,False,True,False,False,True,False,0,Retain current engagement strategy
+29,Master,13,118501,1,2,3,0,0,23,0,False,False,True,False,False,False,False,False,False,True,0,Retain current engagement strategy
+48,High School,4,27079,4,2,3,5,1,26,0,False,False,False,False,False,False,False,False,False,True,0,Retain current engagement strategy
+30,Bachelor,7,27717,3,4,3,3,0,4,0,False,False,False,True,False,False,True,False,False,False,0,Retain current engagement strategy
+58,High School,7,84676,3,2,3,3,0,18,0,True,False,True,False,False,False,False,True,False,False,0,Retain current engagement strategy
+54,Bachelor,2,52952,3,3,4,0,0,6,0,True,False,False,False,False,False,False,False,True,False,1,Consider promotion or recognition incentive. | Assign training or mentorship.
+45,Bachelor,6,111444,3,2,4,2,0,35,1,True,False,True,False,False,False,False,True,False,False,0,Retain current engagement strategy
