@@ -10,9 +10,9 @@ These projects are designed to solve **real-world business problems** across ind
 
 | S.No | Project Title                                       | Domain        | Key Skills                         | Tools Used                          |
 |------|------------------------------------------------------|---------------|------------------------------------|-------------------------------------|
-| 1️⃣   | Customer Journey Funnel Optimization                 | E-Commerce    | Funnel Analysis, User Behavior     | Python, SQL, Power BI, Google Analytics API |
+| 1️⃣   | [Customer Journey Funnel Optimization                 | E-Commerce    | Funnel Analysis, User Behavior     | Python, SQL, Power BI, Google Analytics API |
 | 2️⃣   | Supply Chain Disruption Prediction                   | Logistics     | Time Series, NLP, Forecasting      | Python, Prophet, spaCy, Power BI    |
-| 3️⃣   | Employee Attrition Prediction                        | Human Resources | Classification, SHAP, Clustering  | Python, scikit-learn, SHAP, Tableau |
+| 3️⃣   | [Employee Attrition Prediction](employee-attrition-prediction)                        | Human Resources | Classification, SHAP, Clustering  | Python, scikit-learn, SHAP, Tableau |
 | 4️⃣   | Real-time Financial Fraud Detection                  | Finance       | Anomaly Detection, Stream Analysis | Python, Kafka, Isolation Forest     |
 | 5️⃣   | Smart City Energy Consumption Optimization           | Energy        | Forecasting, Geo-Analytics         | Python, Geopandas, XGBoost, Power BI|
 
