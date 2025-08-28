@@ -15,7 +15,7 @@ These projects are designed to solve **real-world business problems** across ind
 | 3️⃣   | [Employee Attrition Prediction](employee-attrition-prediction)                        | Human Resources | Classification, SHAP, Clustering  | Python, scikit-learn, SHAP, Tableau |
 | 4️⃣   | [Real-time Financial Fraud Detection](Financial_Fraud_Detection)                 | Finance       | Anomaly Detection, Stream Analysis | Python, Kafka, Isolation Forest     |
 | 5️⃣   | Smart City Energy Consumption Optimization           | Energy        | Forecasting, Geo-Analytics         | Python, Geopandas, XGBoost, Power BI|
-
+|       | Air-Quality-Prediction                               | Pollution | Prediction | R & Shiny |
 ---
 
 ## 🔍 Project Descriptions
