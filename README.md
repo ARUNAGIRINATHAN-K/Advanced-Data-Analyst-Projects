@@ -1,5 +1,15 @@
 # 📊 Advanced Data Analyst Project Portfolio
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit%20learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-EE442F?style=flat)
+
 Welcome to my curated repository of **advanced-level Data Analyst projects** that demonstrate end-to-end capabilities in **data preprocessing, exploratory data analysis, predictive modeling, anomaly detection, and business intelligence dashboarding**.
 
 These projects are designed to solve **real-world business problems** across industries like e-commerce, HR, finance, supply chain, and energy. Each project includes well-documented code, clean visualizations, and actionable insights.
